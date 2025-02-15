@@ -60,19 +60,19 @@ git clone https://github.com/meimolihan/bat.git
 目录结构为：
 ```
 洛雪下载/歌曲代码生成/
-                          ├── 一万个理由-郑源/
-                          │           ├── song.mp3
-                          │           ├── cover.jpg
-                          │           └── lyric.lrc
-                          ├── AAA歌曲放入-同名文件夹.bat  
-                          ├── BBB修改子目录-歌曲文件名.bat  
-                          └── CCC生成hugo歌曲代码.bat  
-                          └── ...
+                   ├── 一万个理由-郑源/
+                   │           ├── song.mp3
+                   │           ├── cover.jpg
+                   │           └── lyric.lrc
+                   ├── AAA歌曲放入-同名文件夹.bat  
+                   ├── BBB修改子目录-歌曲文件名.bat  
+                   └── CCC生成hugo歌曲代码.bat  
+                   └── ...
 
 ```
 将《一万个理由-郑源》文件夹上传至此仓库，就ok了。
 
-## ## 生成【Typecho博客】QPlayer2 音乐播放器需要的代码格式
+## 生成【Typecho博客】QPlayer2 音乐播放器需要的代码格式
 
 克隆我的项目：
 ```bash
